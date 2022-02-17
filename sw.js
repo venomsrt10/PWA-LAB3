@@ -41,7 +41,7 @@ function fromCache(request) {
 }
 
 function PageHorsLigne() {
-  return caches.match("PWA-LAB3/page2_hs.html");
+  return caches.match("page2_hs.html");
 }
 
 
