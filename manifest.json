@@ -1,0 +1,35 @@
+
+
+
+  {
+    "name": "Location Lux",
+    "short_name": "LocCars",
+    "description": "Offres locations",
+    "background_color": "#b5b8c1",
+    "theme_color" : "#bf0000",  
+    "display": "standalone",
+    "start_url": "/",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "icone-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icone-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "icone-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "icone-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
