@@ -1,1 +1,1 @@
-# PWA-LAB3
+En localhost tout fonctionne. En ligne sur github, ça bug et quand on regarde l'url. Il fait n'importe quoi. Page 2, ne fonctionne plus. Installation d'app, ne fonctionne plus. Notification, ne fonctionne plus. Je n'arrive pas réparer ça.
